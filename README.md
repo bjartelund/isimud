@@ -27,3 +27,6 @@ Luckily, I brought a TTGO T-DISPLAY RP2030 to d:hack and was able to connect the
 
 https://user-images.githubusercontent.com/13436038/206435037-ef604b35-edbe-46b2-b988-164900781b5f.mp4
 
+After making the video, I realized that the RP2030 does not come with its own WIFI/BLE circuits. Ups.
+Luckily, Morten had some ESP-8266 laying around and I was eventually able to make it connect to my phones WIFI and trigger a web-hook using IFTTT. 
+That marks the end of day 1. Day 2 I hope to either find a suitable ESP-32 or convince the ESP-8266, to combine the achievements of the RP2030 and the 8266 today. That is, measure a change in magnet proximity (as a proxy for a opened mailbox) and report it via wireless to me. 
