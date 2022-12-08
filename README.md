@@ -23,4 +23,7 @@ However, this failed to solve the issue with actually alterting me to changes.
 I also failed to flash the Thingy:53 with new programs, so I abandoned this path.
 
 Luckily, I brought a TTGO T-DISPLAY RP2030 to d:hack and was able to connect the reed-switch to the microcontroller and measure proximity to a magnet as shown in the video.
-<video src="https://github.com/bjartelund/isimud/blob/main/20221208_121421~3.mp4"></video>
+
+
+https://user-images.githubusercontent.com/13436038/206435037-ef604b35-edbe-46b2-b988-164900781b5f.mp4
+
