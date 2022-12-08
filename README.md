@@ -18,6 +18,9 @@ In parallell, try out nRF Edge Impulse to evaluate some of the inbuilt functiona
 
 Made attempts to solve the problem using the ML models generated using Edge Impulse based on the light sensor.
 Collected seconds of darkness / light with the built-in light sensor of the Thingy:53, and developed a model that would differentiate between open/closed states of mail-box this way. 
+![Screenshot from 2022-12-08 22-01-58](https://user-images.githubusercontent.com/13436038/206566889-c50d8459-aa67-4f9b-b631-5027d9581c9c.png)
+
+
 However, this failed to solve the issue with actually alterting me to changes.
 
 I also failed to flash the Thingy:53 with new programs, so I abandoned this path.
